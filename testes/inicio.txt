@@ -1,4 +1,3 @@
-Iniciando com o git
 Atualizando o arquivo 01
 Atualizando o arquivo 02
 Atualizando o arquivo 03
@@ -8,3 +7,4 @@ Atualizando o arquivo 06
 Atualizando o arquivo 07
 Atualizando o arquivo 08
 Atualizando o arquivo 09
+Atualizando o arquivo 10

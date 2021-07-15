@@ -1,3 +1,4 @@
 Novo arquivo criado para o teste de atualização de repositório
 Atualização 01 do novo arquivo
 Atualização 02 do novo arquivo
+Atualização 03 do novo arquivo
